@@ -41,6 +41,8 @@ hs_err_pid*
 **/.classpath
 **/.settings
 **/.gitignore
+**/bin
+**/target
 
 ### repositorio
 **/.git/
